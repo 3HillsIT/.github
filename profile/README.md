@@ -1,6 +1,6 @@
 # Welcome to 3HillsIT! 
 
-![Banner Image](URL_TO_A_BANNER_IMAGE)
+![3HillsIT Banner]([URL_TO_A_BANNER_IMAGE](https://github.com/3HillsIT/.github/blob/bff36f6498af9ad2ad72f0f31aebc12c1d56d57a/Depositphotos_31222205_XL_2.jpg))
 
 3HillsIT is a leading software company dedicated to building robust, scalable, and innovative technology solutions. Our team of expert developers, data scientists, and designers are passionate about bringing your ideas to life.
 
