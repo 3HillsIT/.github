@@ -31,5 +31,6 @@ We look forward to partnering with you to create amazing technology solutions th
 
 https://github.com/3HillsIT/.github/blob/e50d3bdcf2acebd8f4ece98ac5c2d4aac6b81595/Original%20Logo%20Symbol.png
 
-![Logo 3HillsIt](https://github.com/3HillsIT/.github/blob/e50d3bdcf2acebd8f4ece98ac5c2d4aac6b81595/Original%20Logo%20Symbol.png)
+<img src="https://github.com/3HillsIT/.github/blob/e50d3bdcf2acebd8f4ece98ac5c2d4aac6b81595/Original%20Logo%20Symbol.png" alt="3Hills IT Logo" width="200"/>
+
 
